@@ -1,7 +1,8 @@
 # MinesweeperRemake
-The first project of year 3 game development at Mediacollege Amsterdam
+Remake of minesweeper made in 4 days by me, myself and I
 
 Wesley Robin Cats
 GD3B
 
-Demo: 
+Portfolio: https://wesleycats.nl
+Demo: https://wesleycats.nl/pages/work/projects/minesweeper/media/game/
